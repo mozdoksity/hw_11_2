@@ -34,6 +34,9 @@
 
 Установите и запустите memcached.
 
+<img src = "img/10_1_1.jpg" width = 100%>
+
+
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 
 ---
